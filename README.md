@@ -8,6 +8,8 @@
 
 - Added AngularJs to validate forms and for two way binding.
 
+- Created REST API for flight check-in microservice to check-in passengers with reservations.
+
 
 ### Microservice for checking in passengers
 https://github.com/SanketGhorpade1999/Flight-Check-Server.git
